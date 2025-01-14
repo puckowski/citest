@@ -16,6 +16,7 @@ jobs:
         with:
           # Ensure we can push back to the repo
           persist-credentials: true
+          fetch-depth: 0
 
       - name: Set up Node
         uses: actions/setup-node@v3
