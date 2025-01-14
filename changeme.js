@@ -4,4 +4,4 @@ console.log('More logging');
 console.log('More logging');
 console.log('More logging');
 console.log('More logging');
-console.log('More logging');
+console.log('More logging 2');
