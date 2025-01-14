@@ -1,2 +1,2 @@
 console.log('Hello, world!');
-console.log('CI - 2');
+console.log('CI - 3');
