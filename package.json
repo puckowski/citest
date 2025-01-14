@@ -4,16 +4,15 @@
     "description": "Test CHANGELOG.md CI",
     "main": "changeme.js",
     "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1",
-      "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s"
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s -r 1"
     },
     "keywords": [
-      "test"
+        "test"
     ],
     "author": "Daniel Puckowski",
     "license": "MIT",
     "devDependencies": {
-      "conventional-changelog-cli": "^5.0.0"
+        "conventional-changelog-cli": "^5.0.0"
     }
-  }
-  
+}
